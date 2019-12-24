@@ -7199,6 +7199,34 @@ body {
     font-size: 16px;
     color: #8d8f92; }
 
+.bg-clock {
+  display: inline-block;
+  width: 50px;
+  height: 50px;
+  background: url("../img/sprites.png") -10px -10px;
+  margin-bottom: 30px; }
+
+.bg-cogs {
+  display: inline-block;
+  width: 50px;
+  height: 50px;
+  background: url("../img/sprites.png") -78px -10px;
+  margin-bottom: 30px; }
+
+.bg-mobile {
+  display: inline-block;
+  width: 50px;
+  height: 50px;
+  background: url("../img/sprites.png") -10px -78px;
+  margin-bottom: 30px; }
+
+.bg-pencil {
+  display: inline-block;
+  width: 50px;
+  height: 50px;
+  background: url("../img/sprites.png") -78px -78px;
+  margin-bottom: 30px; }
+
 .item {
   padding-bottom: 30px;
   text-align: center; }
