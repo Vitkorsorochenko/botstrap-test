@@ -7139,7 +7139,7 @@ a.text-dark:hover, a.text-dark:focus {
     border-color: #dee2e6; } }
 
 body {
-  font-family: 16px/21px 'OpenSans',sans-serif; }
+  font: 14px/18px 'OpenSans',sans-serif; }
 
 .header-wrapper {
   width: 100%;
